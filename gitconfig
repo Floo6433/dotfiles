@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = olhasque.florian@gmail.com
+	name = florian olhasque
